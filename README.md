@@ -8,6 +8,6 @@
 	}
   
   dependencies {
-	        implementation 'com.github.mexasuxa2927:DialogLib:Tag'
+	        implementation 'com.github.mexasuxa2927:DialogLib:1.0.1'
 	}
   
